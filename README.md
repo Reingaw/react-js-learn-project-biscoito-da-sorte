@@ -5,4 +5,4 @@
 ![Biscoito da sorte](./src/assets/biscoito_01.png "How it looks like after click the button.")  
 
 # What's this project  
-Biscoito da sorte is a small project developed in Rect Js Framework to practice the main concepts of the development process using that Framework.
+Biscoito da sorte is a small project developed in React Js Framework to practice the main concepts of the development process using that Framework.
